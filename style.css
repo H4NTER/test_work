@@ -1,0 +1,122 @@
+.a{
+    text-decoration: none;
+}
+
+.page-header{ 
+    display: flex; 
+    width: 1440px;
+    height: 245px;
+}
+
+.logo-header {  
+    display: flex; 
+    justify-content: flex-start; 
+    width: 275px;
+    height: 246px;
+} 
+
+.logo{
+    width: 201px;
+    height: 203px;
+    margin-top: 29px;
+    margin-left: 73px;
+}
+
+.middle-header{ 
+    display: flex; 
+    justify-content: center;
+}
+
+.services-tabs{ 
+    font-family:'Courier New', Courier, monospace, 24px;
+    margin-left: 50px;
+    margin-top: 30px;
+    width: 401px;
+    height: 244px;
+} 
+
+.rest{
+    margin-left: 47px;
+}
+
+.all{
+    margin-left: 47px;
+}
+
+.search-header{
+    display: flex;
+    justify-content: center; 
+    
+}
+
+.search{ 
+    width: 278px;
+    height: 48px;
+    margin-top: 31px;
+    margin-left: 150px;
+    border-radius: 50px;  
+} 
+
+.aut-header{
+    display: flex; 
+    margin-left: 150px;
+}
+
+.authorization{ 
+    margin-top: 25px; 
+    margin-left: 20px;
+    border-radius: 15px;
+    border-color: #EBEDF7;
+    width: 105.47px;
+    height: 48px;
+}
+
+.registration{ 
+    margin-top: 25px;
+    margin-left: 10px;
+    border-radius: 15px;
+    border-color: #EBEDF7;
+    width: 142.42px;
+    height: 48px;
+} 
+
+.b-line{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 115px;
+} 
+
+.b-line-b-service{
+    display: flex;
+}
+
+.service{ 
+    margin-left: 115px;
+}
+
+.application-card{
+    display: flex; 
+    width: 420px;
+    height: 255px;
+    margin-top: 50px;
+    border: 1px;
+    background-color: #DBC8C8;
+    border-radius: 50px;
+} 
+
+.l1{ 
+    margin-top: 5px;
+    margin-left: 14px;
+} 
+
+.teg{
+    width: 263px;
+    height: 53px;
+    margin-top: 50px; 
+    margin-left: 25px;
+} 
+
+.text{
+
+    margin-top: 140px;
+}
